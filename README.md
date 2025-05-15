@@ -7,6 +7,6 @@ This project is based on the paper:
 
 The paper was published at **ACIS 2023 – The 34th Australasian Conference on Information Systems**.
 
-You can find it on [my Google Scholar profile]([https://scholar.google.com/](https://scholar.google.com/citations?user=RBLmDH8AAAAJ&hl=zh-TW/) or access the full paper here: [full paper](https://aisel.aisnet.org/acis2023/30/)
+You can find it on [my Google Scholar profile]([https://scholar.google.com/](https://scholar.google.com/citations?user=RBLmDH8AAAAJ&hl=zh-TW) or access the full paper here: [full paper](https://aisel.aisnet.org/acis2023/30/)
 
 
